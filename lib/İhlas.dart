@@ -1,0 +1,1 @@
+final List<String>ihlas=["1.	De ki: O, Allah'tır; Ahad'dır, tektir!", "2.	Allah'tır; Samed'dir/tüm ihtiyaçların, niyetlerin, övgülerin, yakarışların yöneldiği tek kuvvettir!", "3.	Ne doğurmuştur O, ne doğurulmuştur!", "4.	Hiç kimse O'nun dengi ve benzeri olmamıştır, olamaz!"] ;

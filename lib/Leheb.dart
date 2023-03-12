@@ -1,0 +1,1 @@
+final List<String>leheb=["1.	Elleri kurusun Ebu Leheb'in; zaten kurudu ya!", "2.	Ne malı kurtardı onu ne de kazandığı.", "3.	Alevli bir ateşe yaslanacaktır o;", "4.	Karısı da,", "5.	Odun hamalı olarak. Gerdanında bir ip olacaktır onun, en sağlam fitillisinden..."] ;

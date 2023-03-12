@@ -1,0 +1,1 @@
+final List<String>kadir= ["1.	Biz onu Kadir Gecesi'nde indirdik.", "2.	Kadir Gecesi'nin niteliğini sana gösteren nedir?", "3.	Kadir Gecesi bin aydan daha hayırlıdır!", "4.	Melekler ve Rûh, Rablerinin izniyle o gecede her iş için iner de iner!", "5.	Bir esenlik ve huzur vardır; sürüp gider o, tan yeri ağarıncaya kadar!"];

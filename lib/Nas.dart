@@ -1,0 +1,1 @@
+final List<String>nas=["1.	De ki: \"İnsanların Rabbine sığınırım!", "2.	İnsanların yöneticisine, yönlendiricisine,", "3.	İnsanların ilahına;", "4.	Kıvrılıp kıvrılıp saklanan, sinip sinip gizlenen vesvesenin/o sinsi, o aldatıcı şeytanın şerrinden,", "5.	İnsanların göğüslerine kuşkular, kuruntular sokar o;", "6.	Cinlerden de insanlardan da olur o!\""] ;

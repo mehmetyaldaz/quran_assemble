@@ -1,0 +1,1 @@
+final List<String>nasr=["1.	Allah'ın yardımı ve fetih geldiğinde,", "2.	Ve insanları kitleler halinde Allah'ın dinine girerken gördüğünde,", "3.	Tespih et Rabbini O'na hamt ile! Ve O'ndan af dile! Çünkü O, Tevvâb'dır, günahları affeder sınırsız bir şekilde."] ;

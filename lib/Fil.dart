@@ -1,0 +1,1 @@
+final List<String>fil=["1.	Görmedin mi ne yaptı Rabbin fil yâranına!", "2.	Tuzaklarını boşa çıkarmadı mı onların?", "3.	Gönderdi üzerlerine sürüler halinde kuş,", "4.	Atıyorlardı onlara kurumuş çamurdan damgalı taş.", "5.	Nihayet, onları yenik ekin yaprağına çevirdi."] ;

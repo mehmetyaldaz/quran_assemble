@@ -1,0 +1,1 @@
+final List<String>kafirun=["1.	De ki: \"Ey nankör kâfirler!", "2.	Kulluk etmem sizin kulluk ettiğinize.", "3.	Siz de ibadet etmezsiniz benim ibadet ettiğime.", "4.	Kul değilim sizin taptığınıza,", "5.	Ve ibadet edenler değilsiniz benim ibadet ettiğime.", "6.	Sizin dininiz size, benim dinim bana!\""] ;

@@ -1,0 +1,1 @@
+final List<String>kureys=["1.	Kureyş'i alıştırıp ısındırdığı için,", "2.	Onları kış ve yaz yolculuğuna alıştırdığı için,", "3.	Bu evin Rabbine ibadet etsinler!", "4.	O ki, onları doyurup kurtardı açlıktan ve kendilerini güvene çıkardı korkudan."] ;

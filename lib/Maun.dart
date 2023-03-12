@@ -1,0 +1,1 @@
+final List<String>maun=["1.	Gördün mü o, dini yalan sayanı?", "2.	İşte odur yetimi itip kakan;", "3.	Yoksulu doyurmayı özendirmez o.", "4.	Vay haline o namaz kılanların/dua edenlerin ki,", "5.	Namazlarından/dualarından gaflet içindedir onlar!", "6.	Riyaya sapandır onlar/gösteriş yaparlar.", "7.	Ve onlar, kamu hakkına/yardıma/zekâta/iyiliğe engel olurlar."] ;
