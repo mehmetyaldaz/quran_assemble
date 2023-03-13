@@ -261,7 +261,7 @@ class _wiwiState extends State<wiwi> {
           IconButton(
             icon: Icon(Icons.arrow_forward_ios),
             onPressed: () {
-              if (kahrak <= 114) {
+              if (kahrak < 113) {
                 kahrak++;
                 selectedindex++;
 
